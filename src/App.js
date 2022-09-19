@@ -7,7 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is my modified react application. More great stuff coming
+          This is my modified react application. 
+          We are initially checkin this into the feature branch 
+          to do an end to end test of the workflow.
         </p>
         <a
           className="App-link"
@@ -15,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React, Docker, Travis, and AWS
         </a>
       </header>
     </div>
